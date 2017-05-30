@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HF Albums</string>
+    <string name="facebook_app_id">1181788288540553</string>
+
+    <string name="title_activity_home2">HF Albums</string>
+    <string name="action_settings">Settings</string>
+</resources>

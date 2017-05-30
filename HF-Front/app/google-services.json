@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1092814241779",
+    "project_id": "nearchat-1383"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092814241779:android:a509e5dfabdfef55",
+        "android_client_info": {
+          "package_name": "nearchat.nearchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgidx3zv-r0H2aBb4g507E3140kdM11Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
